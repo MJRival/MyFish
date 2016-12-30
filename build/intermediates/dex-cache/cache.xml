@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bb1c6f22d57a13f301a34bce3ef1bba01ddb9d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyBeatPlane1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="13e6b5460251510ee5fa2862e94931f1d85449c8">
+        <dex dex="C:\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2363611844a35c05ccc5085995375f4b750d6750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bb1c6f22d57a13f301a34bce3ef1bba01ddb9d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyBeatPlane1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="3733ae7188fbdc36ca24a46c7eceb3de919f8b0c">
+        <dex dex="C:\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\instant-run_81c698e561219e24aa7b9b333eb4e3292aac02ea.jar" />
+    </item>
+
+</items>

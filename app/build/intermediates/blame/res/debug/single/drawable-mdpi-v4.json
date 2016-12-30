@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\middlefish.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\middlefish.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button2.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\button2.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\text.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\text.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\smallfish.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\smallfish.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\myfish.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\myfish.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\missile_goods.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\missile_goods.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fishicon.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\fishicon.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bigfish.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\bigfish.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background.jpg",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\missile_bt.png",
+        "source": "C:\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\missile_bt.png"
+    }
+]
